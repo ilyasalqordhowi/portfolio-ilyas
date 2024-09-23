@@ -22,7 +22,7 @@ function Navbar() {
     document.body.removeChild(link);
   }
   return (
-    <div className="md:flex md:flex-row flex-col flex w-full justify-center md:justify-between p-20 items-center bg-black">
+    <div className="md:flex md:flex-row flex-col flex w-full justify-center md:justify-between p-10 items-center bg-black">
       <div className="flex items-center md:justify-center justify-between md:w-10 w-full">
         <img src={Logo} alt="logo" className="w-10" />
         <button onClick={btnNav} className="text-white md:hidden flex">

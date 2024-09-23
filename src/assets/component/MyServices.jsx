@@ -5,7 +5,7 @@ import LogoResponsive from "../img/responsive.png";
 
 function MyServices() {
   return (
-    <div className="flex flex-col w-full justify-center items-center p-10 md:p-20 gap-10 text-white bg-black">
+    <div className="flex flex-col w-full justify-center items-center p-10 md:p-10 gap-10 text-white bg-black">
       <h1 className="font-bold text-[24px] md:text-[32px] lg:text-[40px]">
         MY SERVICES
       </h1>

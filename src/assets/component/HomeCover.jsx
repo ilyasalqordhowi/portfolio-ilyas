@@ -3,7 +3,7 @@ import People from "../img/people.png";
 
 function HomeCover() {
   return (
-    <div className="md:flex md:flex-row flex flex-col-reverse w-full justify-center items-center p-20 gap-20 bg-black">
+    <div className="md:flex md:flex-row flex flex-col-reverse w-full justify-center items-center p-10 gap-20 bg-black">
       <div className="flex flex-col w-full">
         <h1 className="font-bold text-white text-[30px]">I'M</h1>
         <h2 className="font-bold text-white text-[50px] bg-violet-800 p-5 flex items-center rounded-2xl">

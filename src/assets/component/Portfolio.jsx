@@ -4,7 +4,7 @@ import portfolioKonis from "../img/portfolioKonis.png";
 
 function Portfolio() {
   return (
-    <div className="flex flex-col w-full justify-center p-10 md:p-20 gap-5 text-white bg-black">
+    <div className="flex flex-col w-full justify-center p-10 md:p-10 gap-5 text-white bg-black">
       <h1 className="font-bold text-[24px] md:text-[32px]">PORTFOLIO</h1>
       <h2 className="font-bold text-[30px] md:text-[50px]">Latest Projects</h2>
       <p className="text-[14px] md:text-[16px] text-center md:w-3/4 lg:w-1/2 mx-auto">

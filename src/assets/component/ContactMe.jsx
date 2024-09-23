@@ -4,7 +4,7 @@ import { FaPhone, FaEnvelope, FaLocationArrow } from "react-icons/fa";
 
 function ContactMe() {
   return (
-    <div className="flex flex-col w-full justify-center items-center p-10 md:p-20 gap-5 md:gap-10 text-white bg-black">
+    <div className="flex flex-col w-full justify-center items-center p-10 md:p-10 gap-5 md:gap-10 text-white bg-black">
       <h1 className="text-[24px] md:text-[36px] font-bold">CONTACT ME</h1>
       <h2 className="text-[20px] md:text-[28px]">
         Let's make something together
