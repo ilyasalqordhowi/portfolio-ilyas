@@ -31,7 +31,7 @@ function Footer() {
         </ul>
       </div>
       <div className="flex items-center justify-center p-5 bg-violet-800 text-white text-[14px] md:text-[16px]">
-        © 2023 Ilyas. All Rights Reserved, Inc.
+        © 2024 Ilyas. All Rights Reserved, Inc.
       </div>
     </>
   );
